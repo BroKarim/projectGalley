@@ -1,0 +1,9 @@
+🎯Update Perubahan Pada Github
+- git add . atau kalau mau satu file aja  git add src/components/app/main-content/Card.jsx
+- git commit -m "Deskripsi perubahan Anda"
+- git push origin main
+
+Lalu 
+Buka repositori Anda di GitHub.
+Klik tab "Pull Requests" di atas.
+Klik tombol "New Pull Request".
