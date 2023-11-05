@@ -3,7 +3,7 @@ import cards from '../../../data/Data';
 export default function Card() {
   return (
     <section>
-      <div className="container mx-auto mt-4">
+      <div className="container mx-auto mb-8">
         <div className="mb-8">
           <h1 className="text-3xl font-bold ">Projects</h1>
         </div>

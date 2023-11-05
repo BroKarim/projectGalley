@@ -1,3 +1,6 @@
+💯 LINK vercel
+https://project-galley.vercel.app/
+
 🎯Update Perubahan Pada Github
 - git add . atau kalau mau satu file aja  git add src/components/app/main-content/Card.jsx
 - git commit -m "Deskripsi perubahan Anda"
@@ -6,4 +9,21 @@
 Lalu 
 Buka repositori Anda di GitHub.
 Klik tab "Pull Requests" di atas.
-Klik tombol "New Pull Request".
+Klik tombol "New Pull Request". (ini berlaku jika kita push bukan di main, tapi di branch lain, otomatis harus pull& request untuk samain dengan main. Tapi klo di main pull&request dengan apa??)
+
+💎 MEMPERBAIKI 404: NOT FOUND DI VERCEL
+- Saya buat file baru di root, yaitu vercel.sjon
+
+- Lalu tambah code ini :
+{
+    "rewrites": [
+      { "source": "/(.*)", "destination": "/" },
+      { "source": "/tryvite", "destination": "/TryVite.jsx" }
+    ]
+  }
+
+- Samakan root-nya
+{ "source": "/tryvite", "destination": "/TryVite.jsx" }
+
+=> TryVite.jsx => ini samakan aja denga layout
+  
