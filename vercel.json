@@ -1,7 +1,8 @@
 {
     "rewrites": [
       { "source": "/(.*)", "destination": "/" },
-      { "source": "/tryvite", "destination": "/TryVite.jsx" }
+      { "source": "/tryvite", "destination": "/TryVite.jsx" },
+      { "source": "/iframe", "destination": "/Iframe.jsx" }
     ]
   }
   
