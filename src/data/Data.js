@@ -18,6 +18,12 @@ const cards = [
     tag: 'react-native',
     description: 'iframe is a simple react component to embed external content',
   },
+  {
+    link: '/preloader',
+    title: 'Loading Screen While Fetching API',
+    tag: 'react-native',
+    description: 'Adding a loading screen to make the wait feel shorter',
+  },
 ];
 
 export default cards;
