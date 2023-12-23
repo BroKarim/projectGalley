@@ -1,7 +1,13 @@
 //card
 const cards = [
   {
-    link: '/supabase',
+    link: 'https://github.com/BroKarim/amazon-scrapper',
+    title: 'Amazon Web Scrapping',
+    tag: 'Api',
+    description: 'Scrape Amazon prduct data with express',
+  },
+  {
+    link: 'https://github.com/BroKarim/Supabase-Auth',
     title: 'Supabase Outh',
     tag: 'supabase',
     description: 'Build a login system using React and Supabase',
