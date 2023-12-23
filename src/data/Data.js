@@ -1,6 +1,12 @@
 //card
 const cards = [
   {
+    link: '/supabase',
+    title: 'Supabase Outh',
+    tag: 'supabase',
+    description: 'Build a login system using React and Supabase',
+  },
+  {
     link: '/tryvite',
     title: 'Trying Vite',
     tag: 'Tool',
@@ -24,6 +30,7 @@ const cards = [
     tag: 'react-native',
     description: 'Adding a loading screen to make the wait feel shorter',
   },
+  
 ];
 
 export default cards;

@@ -6,6 +6,7 @@ module.exports = withMT({
     extend: {
       fontFamily: {
         mono: ['Sometype Mono', 'monospace'],
+        'bebas': ['Bebas Neue', 'sans-serif'],
       },
       // color:{
       //   cb: "#272829",

@@ -3,7 +3,8 @@
       { "source": "/(.*)", "destination": "/" },
       { "source": "/tryvite", "destination": "/TryVite.jsx" },
       { "source": "/iframe", "destination": "/Iframe.jsx" },
-      { "source": "/preloader", "destination": "/Preloader.jsx" }
+      { "source": "/preloader", "destination": "/Preloader.jsx" },
+      { "source": "/supabase", "destination": "/Supabase.jsx" }
     ]
   }
   
