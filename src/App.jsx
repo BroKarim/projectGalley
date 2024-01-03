@@ -12,6 +12,7 @@ import Content from './layout/content';
 import TryVite from './layout/TryVite';
 import Iframe from './layout/Iframe';
 import Preloader from './layout/PreLoader';
+import CatPage from './layout/CatPage';
 
 function App() {
   return (
@@ -22,6 +23,8 @@ function App() {
           <Route path="/tryvite" element={<TryVite />} />
           <Route path="/iframe" element={<Iframe />} />
           <Route path="/preloader" element={<Preloader />} />
+          <Route path="/catpage" element={<CatPage />} />
+
         </Routes>
       </Router>
     </>

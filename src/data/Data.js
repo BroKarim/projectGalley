@@ -1,6 +1,12 @@
 //card
 const cards = [
   {
+    link: '/catpage',
+    title: 'Cat-page',
+    tag: 'Landing-page',
+    description: 'Scrape Amazon prduct data with express',
+  },
+  {
     link: 'https://github.com/BroKarim/amazon-scrapper',
     title: 'Amazon Web Scrapping',
     tag: 'Api',
