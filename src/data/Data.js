@@ -2,9 +2,9 @@
 const cards = [
   {
     link: '/catpage',
-    title: 'Cat-page',
-    tag: 'Landing-page',
-    description: 'Scrape Amazon prduct data with express',
+    title: 'Cat Grooming',
+    tag: 'landing-page',
+    description: 'Your cat grooming web',
   },
   {
     link: 'https://github.com/BroKarim/amazon-scrapper',
