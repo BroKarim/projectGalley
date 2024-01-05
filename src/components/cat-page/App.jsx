@@ -63,9 +63,9 @@ const {star, shuriken} = element()
 
               <div className="flex items-center gap-4">
                 <div className="sm:flex sm:gap-4">
-                  <a className="bg-[#fc68b2] px-5 py-2.5 text-sm font-medium text-black hover:text-white hover:bg-black" href="/">
+                  <a className="bg-[#fc68b2] px-5 py-2.5 text-sm font-medium text-black hover:text-white hover:bg-black" href="https://github.com/BroKarim/Grooming-Page.git">
                     {' '}
-                    Contact Us{' '}
+                    Get Code!{' '}
                   </a>
                 </div>
 
