@@ -13,6 +13,7 @@ import TryVite from './layout/TryVite';
 import Iframe from './layout/Iframe';
 import Preloader from './layout/PreLoader';
 import CatPage from './layout/CatPage';
+import Awezome from './layout/Awezome';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
           <Route path="/iframe" element={<Iframe />} />
           <Route path="/preloader" element={<Preloader />} />
           <Route path="/catpage" element={<CatPage />} />
+          <Route path="/awezome" element={<Awezome />} />
 
         </Routes>
       </Router>
