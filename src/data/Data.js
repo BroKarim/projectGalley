@@ -1,6 +1,12 @@
 //card
 const cards = [
   {
+    link: '/awezome',
+    title: 'Awezome',
+    tag: 'Tabs',
+    description: 'New Responsive Tabs',
+  },
+  {
     link: '/catpage',
     title: 'Cat Grooming',
     tag: 'landing-page',
