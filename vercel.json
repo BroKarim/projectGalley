@@ -5,7 +5,8 @@
       { "source": "/iframe", "destination": "/Iframe.jsx" },
       { "source": "/preloader", "destination": "/Preloader.jsx" },
       { "source": "/catpage", "destination": "/CatPage.jsx" },
-      { "source": "/awezome", "destination": "/Awezome.jsx" }
+      { "source": "/awezome", "destination": "/Awezome.jsx" },
+      { "source": "/joyui", "destination": "/JoyUI.jsx" }
       
       
     ]
