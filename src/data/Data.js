@@ -1,6 +1,12 @@
 //card
 const cards = [
   {
+    link: '/joyui',
+    title: 'JoyUI',
+    tag: 'snippet',
+    description: 'Code Highlight with PrismJs',
+  },
+  {
     link: '/awezome',
     title: 'Awezome',
     tag: 'Tabs',

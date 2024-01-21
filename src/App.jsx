@@ -14,6 +14,7 @@ import Iframe from './layout/Iframe';
 import Preloader from './layout/PreLoader';
 import CatPage from './layout/CatPage';
 import Awezome from './layout/Awezome';
+import JoyUI from './layout/JoyUI';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
           <Route path="/preloader" element={<Preloader />} />
           <Route path="/catpage" element={<CatPage />} />
           <Route path="/awezome" element={<Awezome />} />
+          <Route path="/joyui" element={<JoyUI />} />
 
         </Routes>
       </Router>
